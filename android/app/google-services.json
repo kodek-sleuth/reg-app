@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892993115845",
+    "firebase_url": "https://cash-power-85055.firebaseio.com",
+    "project_id": "cash-power-85055",
+    "storage_bucket": "cash-power-85055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892993115845:android:8af2deabbca2aeb0ccc2ac",
+        "android_client_info": {
+          "package_name": "com.isabella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892993115845-1198t2e5gmd6g647tkr892niatiltt5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB99oWoOozkXCuc8HXC-LiZZCJsE9LOLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892993115845-1198t2e5gmd6g647tkr892niatiltt5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
